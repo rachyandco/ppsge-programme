@@ -1,0 +1,959 @@
+<PROGRAMME>  
+<CHAPTER ID="INTRO" SUBJECT="Introduction">Introduction
+<CHAPEAU>Le Parti Pirate Genevois souhaite le développement d'une société inclusive. Dans une société inclusive, l'ensemble de l'organisation de la société est conçue pour favoriser la participation et la contribution de chacun et chacune. Personne n'est exclu. Tous les citoyens disposent des moyens de contribuer à la société dans le respect de l'autre. 
+&lt;br&gt;
+Le programme du Parti Pirate Genevois se divise en cinq chapitres. Chaque chapitre vise à promouvoir la contribution de chacun en créant un espace social sûr, en disposant d'un environnement préservé et de ressources gérées durablement, en organisant les biens communs pour qu'ils soient accessibles à tous  et finalement en proposant un cadre économique libre, à taille humaine et éthique. La société inclusive s'organise dans le cadre d'une démocratie participative et transparente. 
+&lt;br&gt;
+&lt;br&gt;
+&lt;i&gt;Dans un souci de lisibilité, tous les termes sont écrits au masculin. Il va de soi que tous les termes s'appliquent à toutes les identités sexuelles ou de genres.&lt;/i&gt;
+</CHAPEAU>
+</CHAPTER>
+<CHAPTER ID="ED" SUBJECT="Etat de droit">Etat de droit
+	<CHAPEAU>Afin de permettre la mise en place d'un programme sociétal fort où les citoyens et les habitants trouvent pleinement leur place, où leurs contributions sont mises en valeur, le canton requiert des institutions fortes, une justice indépendante, une chancellerie capable de gérer les processus institutionnels dont elle a la charge et un préposé à la protection des données capable d'assurer son mandat envers les administrations et la population.
+
+Le but n'est pas d'avoir une bureaucratie forte, mais des institutions robustes et fortes. Les institutions sont les piliers de l'Etat de droit; en tout temps, elles doivent être en mesure d'assurer l'intégrité et la primauté de ce dernier. Il ne peut y avoir de démocratie sans Etat de droit.
+
+Les citoyens doivent avoir les moyens de participer pleinement à la vie politique. L'Etat doit prendre les devants et leur fournir les moyens de participer de manière effective à la démocratie genevoise.
+
+Le Parti Pirate Genevois veut rendre son rôle et son rang aux citoyens dans la vie politique. Les institutions qui encadrent le fonctionnement de l'Etat doivent être accessibles et transparentes. Les citoyens doivent être informés sur la conduite de l'exécutif, afin qu'ils puissent s'impliquer et contribuer aux enjeux auxquels nous faisons tous face.
+	</CHAPEAU>
+	<SECTION ID="ED1" SUBJECT="Institutions">Institutions
+		<SOUSSECTION  ID="ED11" >
+		  <SSCHAPEAU></SSCHAPEAU>
+			<PROPOSITION>
+				<PROPID>01</PROPID>
+				<PROPTITLE>Transparence et Publication des décisions du Conseil d'Etat</PROPTITLE>
+				<PROP>Le Parti Pirate Genevois a l'exigence de la publicité des objets traités, des procès-verbaux et des décisions prises par le Conseil d'Etat, ainsi que leur accessibilité garantie pour toutes et tous !</PROP>
+				<PROPJUST>Bien que les arrêtés, les lois, et autres informations publiques soient communiqués au travers de l'organe officiel de l'Etat de Genève, la feuille d'avis, les citoyens, qui, après tout sont le Souverain, n'ont pas connaissance des débats menant à la prise des décisions ayant un impact sur leur quotidien. Ils n'en voient que les conséquences. Comment les citoyens peuvent-ils se sentir partie prenante à la vie politique du Canton quand ils ne sont pas en mesure d'en apprécier les réels tenants, et ne constater que les aboutissants?</PROPJUST>
+				<PROPTHEMES>Transparence</PROPTHEMES>
+			</PROPOSITION>
+
+			<PROPOSITION>
+				<PROPID>02</PROPID>
+				<PROPTITLE>L'Etat protège la sphère privée</PROPTITLE>
+				<PROP>Le Parti Pirate Genevois a l'exigence que la sphère privée individuelle soit garantie et protégée par l'Etat. Cette protection ne doit pas être uniquement une déclaration de bonnes intentions, mais doit être réalisée aussi bien au niveau de l'informatique, qu'au niveau du partage d'informations avec des tierces personnes n'ayant en principe pas le droit d'accès aux informations des administrés.</PROP>
+				<PROPJUST>Les polémiques et controverses impliquant divers services de l'Etat, quant à la gestion des données des citoyens, ont mis en exergue la fragilité et l'inconséquence de la protection des données des administrés, des citoyens et des habitants. L'unification des processus de gestion des données des administrés doit être effectuée dans un souci d'économie d'échelle et d'un meilleur service rendu au profit des administrés. En aucun cas cette gestion ne doit être consacrée à une surveillance des administrés.</PROPJUST>
+				<PROPTHEMES>Sécurité,Vie Privée</PROPTHEMES>
+			</PROPOSITION>
+
+			<PROPOSITION>
+				<PROPID>03</PROPID>
+				<PROPTITLE>Publication des rapports de l'ICF</PROPTITLE>
+				<PROP>Le Parti Pirate Genevois a l'exigence de la publicité de l'ensemble des rapports de l'Inspection Cantonale des Finances et que leur accessibilité soit garantie pour toutes et tous, afin que les citoyens disposent d'une vision objective du fonctionnement des institutions.</PROP>
+				<PROPJUST>Aujourd'hui,  l'Inspection Cantonale des Finances ne partage pas l'ensemble de ses investigations, mais seulement des rapports de synthèse anonymisés, ce qui n'est pas admissible dans le cadre d'un Etat de droit. Comment les citoyens peuvent-ils faire confiance aux magistrats qu'ils élisent si l'ensemble des procédures et rapports sensés mettre en lumière leurs agissements ne sont pas publiés de manière transparente? Comment les citoyens peuvent-ils avoir confiance dans leurs institutions si les rapports concernant leur fonctionnement ne sont pas publiés de manière transparente?</PROPJUST>
+				<PROPTHEMES>Transparence</PROPTHEMES>
+			</PROPOSITION>
+		
+			<PROPOSITION>
+				<PROPID>04</PROPID>
+        <PROPTITLE>Publication des rapports de la Cour des Comptes</PROPTITLE>
+				<PROP>Le Parti Pirate Genevois a l'exigence de la publicité de l'ensemble des délibérations et rapports de la Cour des Comptes et que leur accessibilité soit garantie pour toutes et tous, afin que les citoyens puissent se faire une idée claire de la qualité des magistrats auxquels ils ont donné leur confiance.</PROP>
+				<PROPJUST>Aujourd'hui, la Cour des Comptes ne partage pas l'ensemble de ses investigations, mais seulement des rapports de synthèse anonymisés, ce qui n'est pas admissible dans le cadre d'un Etat de droit. Comment les citoyens peuvent-ils faire confiance aux magistrats qu'ils élisent si l'ensemble des procédures et rapports sensés mettre en lumière leurs agissements ne sont pas publiés de manière transparente? Comment les citoyens peuvent-ils avoir confiance dans leurs institutions si les rapports concernant leur fonctionnement ne sont pas publiés de manière transparente?</PROPJUST>
+				<PROPTHEMES>Transparence</PROPTHEMES>
+			</PROPOSITION>
+
+			<PROPOSITION>
+				<PROPID>05</PROPID>
+        <PROPTITLE>Un audit de la législature</PROPTITLE>
+				<PROP>Le Parti Pirate Genevois a l'exigence qu'un audit financier complet soit réalisé à chaque changement de législature.</PROP>
+				<PROPJUST>Dans le cadre de la conduite des affaires, tant au niveau communal qu'au niveau cantonal, les magistrats doivent pouvoir rendre compte de manière transparente. Un audit financier a pour objectif d'exprimer une opinion sur la régularité, la sincérité et l'image fidèle des comptes publics. L'Inspection Cantonale des Finances doit procéder à un audit en vue d'évaluer la situation des comptes publics et les risques qui pèsent sur la réalisation des objectifs lors de la prochaine législature. Le rapport de l'Inspection Cantonale des Finances devra inclure une analyse détaillée des enjeux budgétaires de la législature suivante et étudiera spécifiquement les conditions de réalisation des objectifs.</PROPJUST>
+				<PROPTHEMES>Transparence</PROPTHEMES>
+			</PROPOSITION>
+		</SOUSSECTION>
+		</SECTION>
+
+	<SECTION ID="ED2" SUBJECT="Droits politiques">Droits politiques
+	<SOUSSECTION ID="ED21" >
+		<PROPOSITION>
+			<PROPID>06</PROPID>
+			<PROPTITLE>Sensibilisation et éducation civique</PROPTITLE>
+			<PROP>Le Parti Pirate Genevois demande à ce qu'une politique durable de sensibilisation et d'éducation civique continue à destination de tous, en particulier des adultes, soit établie. La mise en place de moyens pédagogiques adéquats doit être réalisée. Ces moyens doivent fournir les outils permettant aux citoyens adultes d'être capable de participer à la vie politique et de s'y investir.</PROP>
+			<PROPJUST>Aujourd'hui, une grande confusion règne dans la population quant à la structure et aux domaines de compétences des autorités politiques du canton. Les citoyens ne sont pas au fait de leurs droits, et de leurs devoirs. Pour qu'une personne puisse s'intéresser et contribuer à la vie politique, elle doit en comprendre les mécanismes et savoir comment interagir avec les différentes institutions. Les institutions doivent activement aller vers les citoyens, les sensibiliser et les associer dans toutes les étapes de la formation de l'opinion, en passant par la prise de décision et finalement dans la mise en oeuvre de la politique. Une telle démarche vise à ce que les citoyens se réapproprient l'espace politique.</PROPJUST>
+			<PROPTHEMES>Transparence,Education,Vie Privée</PROPTHEMES>
+		</PROPOSITION>
+	</SOUSSECTION>
+	</SECTION>
+</CHAPTER>
+<CHAPTER ID="SOC" SUBJECT="Societe">Société
+
+	<CHAPEAU>Pour le Parti Pirate, la société est centrée sur le citoyen. Le bien-être de l'individu ne peut être réalisé qu'au sein d'une société inclusive. La société inclusive cherche à fournir à l'ensemble des individus les moyens pour contribuer à leur bien-être. Dans le respect de l'État de droit, la société fournit à l'individu un cadre sûr où il dispose des choix de ses modes de vie.
+La sécurité dans la société est considérée dans toutes ses composantes sociales, militaires ou policières. Il faut conduire une politique qui réduit les menaces pesant sur la société et les individus. Cette politique prend en considération que le risque zéro n'existe pas et par conséquent adapte le cadre sûr à la volatilité de la menace.</CHAPEAU>
+
+	<SECTION ID="SOC1" SUBJECT="Securite">Sécurité
+		<SOUSCHAPEAU>La densité des activités et la présence des acteurs sociaux, culturels, artisanaux et commerciaux contribue à la sécurité pour les individus. Une cité vivante possédant une telle richesse est vecteur de sécurité. La politique de sécurité se fonde sur la mobilisation des acteurs sociaux, culturels, artisanaux et commerciaux. La mise en mouvement des spécialistes de la prévention et de la répression est complémentaire à la contribution et la sensibilisation de l'ensemble de la société.</SOUSCHAPEAU>
+		<SOUSSECTION ID="SOC1-1" >La Protection Civile
+		<SSCHAPEAU>La protection civile est une institution faite d'hommes et de femmes, de connaissances, de compétences, d'infrastructures et de matériels. Elle est sous-employée et négligée. Il est indispensable de la revaloriser et de lui permettre d'être un contributeur actif dans le domaine de la sécurité civile et de la protection des populations et des individus.</SSCHAPEAU>
+		<PROPOSITION>
+			<PROPID>07</PROPID>
+			<PROPTITLE>Mieux utiliser la Protection Civile</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que l'ensemble des associations et des collectivités puissent bénéficier de toutes les prestations de la protection civile. Celle-ci est à même d'apporter son concours pour les mandats d'encadrement de manifestations et dans des missions de sensibilisation de la population. La protection civile doit remplir son rôle dans le soutien logistique pour des mandats humanitaires, tels que l'accueil et le suivi des demandeurs d'asile et des réfugiés. </PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+
+		<PROPOSITION>
+			<PROPID>08</PROPID>
+			<PROPTITLE>Financer la Protection Civile</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que le financement de la Protection Civile soit ajusté pour assurer un engagement accru.</PROPJUST>
+		</PROPOSITION>
+	</SOUSSECTION>
+		<SOUSSECTION ID="SOC1-2">La Police
+		<SSCHAPEAU>Les forces de police actives, chargées du maintien de l'ordre, s'intègrent au sein du dispositif civil et social qui assure une sécurité durable pour la population. Elles agissent en synergie et en complémentarité à ce dispositif. Les forces de police doivent avoir les moyens de s'adapter à la situation particulière du canton de Genève. La situation de la sécurité est fortement dépendante de l'évolution démographique, de l'évolution technologique ainsi que de la forte augmentation de la mobilité.</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>09</PROPID>
+			<PROPTITLE>Adaptation du nombre de policiers</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que les effectifs de police soient augmentés afin qu'une présence policière soit effective dans l'ensemble du canton et ce 24 heures sur 24, en fixant un objectif de recrutement supplémentaire de 400 personnes.</PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>10</PROPID>
+			<PROPTITLE>Une formation romande de la Police</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que la filière de formation des gendarmes genevois soit intégrée au cursus romand déjà existant afin de mutualiser les ressources de formation.</PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>11</PROPID>
+			<PROPTITLE>Une Police ouverte aux permis C</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que la filière de formation des gendarmes genevois soit ouverte aux détenteurs de permis C.</PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>12</PROPID>
+			<PROPTITLE>Recruter des auxiliaires en charge des tâches administratives</PROPTITLE>
+			<PROP></PROP>
+      <PROPJUST>Le Parti Pirate Genevois demande à ce qu'un programme de recrutement  d'auxiliaires administratifs soit également mis en place pour améliorer de manière significative la prise en charge des procédures administratives et judiciaires.</PROPJUST>
+      <PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>13</PROPID>
+			<PROPTITLE>Des postes de travail immédiatement repourvus</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que les postes des personnes faisant  le choix du PLEND soient immédiatement repourvus et non pas immobilisés comme c'est le cas actuellement.</PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>14</PROPID>
+			<PROPTITLE>Un cadre extrêmement strict de l'usage de la vidéosurveillance</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois exige la mise en place d'un cadre extrêmement sévère de contrôle des programmes de vidéosurveillance sur la voie publique, ainsi que l'arrêt des projets incluant des système d'analyse comportementale et de prédiction de la délinquance.</PROPJUST>
+			<PROPTHEMES>Sécurité,Vie Privée</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>15</PROPID>
+			<PROPTITLE>Des contrats locaux de sécurité</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que les contrats locaux de sécurité entre les communes et le canton incluent l'ensemble des acteurs, y compris les acteurs sociaux et culturels.</PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>16</PROPID>
+			<PROPTITLE>Création d'un CyberPolShop</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la création d'un espace de prévention et d'accompagnement pour les citoyens et les entreprises victimes de cybercriminalité et de coordination pour la promotion de la cyberprévention auprès des jeunes.</PROPJUST>
+						<PROPTHEMES>Sécurité,Education</PROPTHEMES>
+
+		</PROPOSITION>
+		</SOUSSECTION>
+		
+		<SOUSSECTION ID="SOC1-3">Justice
+		<SSCHAPEAU>Pour le Parti Pirate, l'indépendance de la justice doit être garantie vis-à-vis du politique. La justice doit rester accessible, compréhensible et ouverte afin de permettre à chacun d'avoir les moyens de faire valoir ses droits. Afin de conserver une procédure à visage humain, tous les éléments touchant directement au parcours de l'individu au sein de la justice est de la responsabilité de l'Etat. Il ne saurait déléguer ses compétences au secteur privé. Il est essentiel de garantir l'égalité de traitement et le respect des droits humains. </SSCHAPEAU>
+		
+		<PROPOSITION>
+			<PROPID>17</PROPID>
+			<PROPTITLE>Un guichet unique pour la justice</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la création d'un guichet unique pour que le fonctionnement de la justice et l'ensemble des procédures judiciaires soient le plus accessible. Il est primordial que chacun puisse faire valoir ses droits et comprenne les décisions qui le concernent.</PROPJUST>
+						<PROPTHEMES>Sécurité,Transparence</PROPTHEMES>
+
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>18</PROPID>
+			<PROPTITLE>Réforme informatique de la justice</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise à disposition de la justice des moyens conséquents pour l'amélioration significative des systèmes d'information  afin d'assurer la mise en oeuvre complète et efficace du dossier électronique du justiciable, permettant aussi de réduire le délai de traitement des procédures.</PROPJUST>
+						<PROPTHEMES>Sécurité</PROPTHEMES>
+
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>19</PROPID>
+			<PROPTITLE>Améliorer les compétences pour la lutte contre la cybercriminalité</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois a l'exigence, dans le cadre de l'évolution de la cybercriminalité, de la mise à disposition des compétences adéquates pour permettre aux magistrats de rendre efficacement la justice.</PROPJUST>
+						<PROPTHEMES>Sécurité</PROPTHEMES>
+
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>20</PROPID>
+			<PROPTITLE>Contre la privatisation de la prison</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois à l'exigence que l'exécution du convoyage des détenus soit réalisé par les services pénitentiaires et non sous-traité à des sociétés privées.</PROPJUST>
+						<PROPTHEMES>Sécurité</PROPTHEMES>
+
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>21</PROPID>
+			<PROPTITLE>Préservation des liens familliaux en prison</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise à disposition de lieux adaptés aux visites de partenaires pour l'ensemble des détenus.</PROPJUST>
+						<PROPTHEMES>Sécurité</PROPTHEMES>
+
+		</PROPOSITION>
+		</SOUSSECTION>
+		</SECTION>
+	<SECTION ID="SOC2" SUBJECT="international">Relations internationales
+<SOUSSECTION ID="SOC2-1">Région et Europe
+<SSCHAPEAU>Le Parti Pirate adhère au projet européen. Il est nécessaire de participer activement à la construction de l'avenir de l'Europe. En l'état actuel, en particulier en ce qui  concerne la participation du public dans le processus politique, nous ne  sommes pas satisfaits des institutions de l'Union européenne. Mais rester à l'écart des négociations aurait pour conséquence que le choix des autres nous soit imposé.  Il est crucial de représenter et promouvoir activement le canton et la région dans le contexte européen et transfrontalier.</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>22</PROPID>
+			<PROPTITLE>Une Assemblée du Grand Genève</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate demande la création d'un organe démocratiquement élu pour représenter l'ensemble de la région du Grand Genève.</PROPJUST>
+						<PROPTHEMES>Emploi,Sécurité,Logement,Transparence,Education,Environnement,Vie Privée</PROPTHEMES>
+
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>23</PROPID>
+			<PROPTITLE>Une répresentation auprès de l'UE</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate demande la création à Bruxelles d'un bureau de représentation du canton auprès des institutions européennes. Ce bureau aurait pour mandat notamment la représentation des intérêts genevois et la soumission de projet de développement de la région transfrontalière afin d'attirer des financements européens.</PROPJUST>
+						<PROPTHEMES>Emploi,Environnement</PROPTHEMES>
+
+		</PROPOSITION>
+		</SOUSSECTION>
+<SOUSSECTION ID="SOC2-2">Genève internationale
+<SSCHAPEAU>La présence de nombreuses institutions internationales à Genève participe au rayonnement au-delà des limites géographiques du canton. Cette présence a pu se pérenniser grâce à l'accueil favorable des institutions et des personnes par la population genevoise. La tradition d'ouverture de notre société a contribué à la prospérité économique du canton. Il est donc important de perpétuer cette tradition en permettant le développement de la présence internationale, notamment en tissant des liens étroits avec la population.</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>24</PROPID>
+			<PROPTITLE>Soutenir des médias genevois en anglais</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois soutient le développement de moyens d'échanges culturels, notamment de médias locaux en langue anglaise.</PROPJUST>
+						<PROPTHEMES></PROPTHEMES>
+
+		</PROPOSITION>
+<PROPOSITION>
+			<PROPID>25</PROPID>
+			<PROPTITLE>Soutenir la filière de formation internationale</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois soutient le développement de la filière universitaire de diplomatie internationale et de promotion de la paix.</PROPJUST>
+		</PROPOSITION>
+								<PROPTHEMES>Emploi,Education</PROPTHEMES>
+
+
+<PROPOSITION>
+			<PROPID>26</PROPID>
+			<PROPTITLE>Des structures de rencontre pour la société civile</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'une politique de bons offices pour permettre le développement d'initiatives non partisanes, incluant la société civile, visant à favoriser le respect des droits humains.</PROPJUST>
+						<PROPTHEMES></PROPTHEMES>
+
+		</PROPOSITION>
+		</SOUSSECTION>
+	</SECTION>
+	<SECTION ID="SOC3" SUBJECT="Politique Sociale">Politique Sociale
+		<SOUSCHAPEAU>L'individu doit pouvoir prendre pleinement sa place dans la société et pouvoir y contribuer sans barrière discriminante. L'inclusion de l'individu doit se faire par la reconnaissance de ses spécificités, tout en lui permettant une socialisation active dans la mesure de ses capacités et de sa volonté. Une société inclusive est une société sans privilège, ni exclusion, ni exclusivité. Chacun d'entre nous est héritier de ce que la société a de meilleur et de plus noble. </SOUSCHAPEAU>
+		<SOUSSECTION ID="SOC3-1">Politique familiale
+		<SSCHAPEAU>Le Parti Pirate est pour le principe d'autodétermination dans la vie privée. Chaque personne doit être en mesure de décider librement et sans discrimination de ses choix de vie, ainsi que de la forme de cohabitation souhaitée. La cohabitation ne peut être contrainte ni par le gain personnel, ni par l'exploitation des individus. Quelque soit la forme de cohabitation choisie, celles accueillant des enfants ou des personnes à charge bénéficient d'une protection particulière. Ces formes de cohabitation doivent obtenir une reconnaissance égale eu égard à la loi.</SSCHAPEAU>
+		
+		<PROPOSITION>
+			<PROPID>27</PROPID>
+			<PROPTITLE>Soutenir le renforcement des structures familiales</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement et la valorisation des initiatives pour le renforcement des structures familiales de quelque nature qu'elles soient.</PROPJUST>
+						<PROPTHEMES>Vie Privée</PROPTHEMES>
+
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>28</PROPID>
+			<PROPTITLE>Lutte contre les violences domestiques</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement des structures d'accompagnement, de soutien, et d'hébergement des victimes de violences familiales, quels que soient leur sexe et leurs âges.</PROPJUST>
+						<PROPTHEMES>Sécurité,Vie Privée</PROPTHEMES>
+
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>29</PROPID>
+			<PROPTITLE>Améliorer l'accès aux structures d'accueil de la petite enfance</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement de l'offre des structures d'accueil nécessairse à la petite enfance sans frein économique réduisant l'accessibilité. Une étude  de la révision des modèles de contributions et de palliers est demandée. </PROPJUST>
+						<PROPTHEMES>Education,Vie Privée</PROPTHEMES>
+
+		</PROPOSITION>
+		
+<PROPOSITION>
+			<PROPID>30</PROPID>
+			<PROPTITLE>Un accueil de la petite enfance de qualité</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois s'engage à défendre le niveau de qualité des structures d'accueil de la petite enfance. Une augmentation de l'offre d'accueil doit se faire, notamment, par la création de nouvelles structures et sans péjorer les conditions d'encadrement des enfants. C'est pourquoi, le Parti Pirate Genevois soutient le référendum contre la modification de la loi sur la petite enfance.</PROPJUST>
+			<PROPTHEMES>Education,Vie Privée</PROPTHEMES>
+		</PROPOSITION>
+		
+		</SOUSSECTION>
+
+		<SOUSSECTION ID="SOC3-2">Santé
+		<SSCHAPEAU>Essentielle à la personne, la santé ne saurait être envisagée seulement comme une charge financière soumise à des enjeux économiques. Chacun a droit à l'accès, à la prévention et aux soins, sans considération des ressources de la personne et indépendamment de son état de santé, du handicap, du genre, de l'âge, de l'origine ou des croyances. Le système de santé doit être centré sur la personne et ne doit pas être organisé autour des acteurs économiques institutionnels. Toutes les mesures de protection de la santé ainsi que les démarches curatives pour la personne doivent être entreprises. La prise en charge en fin de vie doit laisser à la personne le choix le plus large des mesures d'accompagnement qu'elle souhaite. Le système de santé doit assurer la pérennité des traitements qui sont adaptés à la personne.</SSCHAPEAU>
+ 
+      <PROPOSITION>
+			<PROPID>31</PROPID>
+			<PROPTITLE>Un dossier médical sous haute surveillance</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois exige que le développement du dossier médical électronique garantisse la sécurité et l'intégrité des données, la traçabilité de l'ensemble des accès et que le patient et les ayants droit y aient accès en tout temps.</PROPJUST>
+			<PROPTHEMES>Sécurité,Vie Privée</PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>32</PROPID>
+			<PROPTITLE>Maladies chroniques: Améliorer la qualité de vie des patients</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que le suivi médical des maladies chroniques soit amélioré afin d'assurer la meilleure qualité de vie des patients.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>33</PROPID>
+			<PROPTITLE>Développer la filière médicale pour le quatrième âge</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que la filière médicalisée du suivi des personnes du quatrième âge soit développée pour assurer un accompagnement adéquat.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>34</PROPID>
+			<PROPTITLE>De nouvelles unités de soins palliatifs</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement d'unités de soins palliatifs à travers le territoire afin de maintenir la proximité et l'accessibilité la plus grande pour les proches.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		
+      <PROPOSITION>
+			<PROPID>35</PROPID>
+			<PROPTITLE>Projet pilote de commercialisation de drogues</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Dans le cadre de la protection de la jeunesse, le Parti Pirate Genevois exige la mise en place d'un projet pilote de commercialisation contrôlée de drogues en coopération avec les autres villes et cantons qui participeraient à des projets équivalents.</PROPJUST>
+			<PROPTHEMES>Sécurité</PROPTHEMES>
+		</PROPOSITION>
+		</SOUSSECTION>
+		
+		<SOUSSECTION ID="SOC3-3">Protection Sociale
+			<SSCHAPEAU>Chaque personne a droit à des conditions d'existence digne et aux moyens de participer à la société. Un socle de protection sociale comporte des garanties élémentaires de sécurité sociale en vertu desquelles, tout au long du cycle de vie, toutes les personnes qui en ont besoin auront un accès effectif à des soins de santé essentiels et une sécurité du revenu minimal. Les politiques relatives au socle de protection sociale devraient viser à faciliter un accès effectif aux biens et services essentiels, promouvoir des activités économiques productives et être coordonnées avec d'autres politiques visant à améliorer l'employabilité, à réduire la précarité en suscitant l'esprit d'entreprise et la création d'emplois décents. Pour des personnes précarisées et dans des situations de rupture, le socle de protection sociale doit aussi comprendre des outils de socialisation qui permettent de mettre fin au cercle vicieux de l'isolation menant à l'exclusion.</SSCHAPEAU>
+
+		<PROPOSITION>
+			<PROPID>36</PROPID>
+			<PROPTITLE>Un accès Internet garanti</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que l'accès Internet soit garanti pour toutes les personnes bénéficiant de l'aide sociale sur leur lieu de vie.</PROPJUST>
+			<PROPTHEMES>Emploi,Education</PROPTHEMES>
+		</PROPOSITION>
+				
+				<PROPOSITION>
+			<PROPID>37</PROPID>
+			<PROPTITLE>Un accès à la formation</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que l'ensemble du catalogue de formation Eduqua soit accessible à toutes les personnes bénéficiant de l'aide sociale dans le cadre de la construction d'un chemin de réinsertion.</PROPJUST>
+			<PROPTHEMES>Emploi,Education</PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>38</PROPID>
+			<PROPTITLE>Finir avec l'abus des stages</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que les offres de stages soient conditionnées à des objectifs de formation et d'insertion contraignants pour l'entreprise d'accueil.</PROPJUST>
+			<PROPTHEMES>Emploi,Education</PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>39</PROPID>
+			<PROPTITLE>Supprimer les emplois de solidarité</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la suppression des emplois de solidarité. Cela au profit de subventions liées à la pérennisation d'emplois qui accueillent des personnes soutenues et accompagnées dans leur chemin d'insertion pour une période d'au moins deux ans.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+		</PROPOSITION>		
+		</SOUSSECTION>
+
+		<SOUSSECTION ID="SOC3-4">Inclusion
+<SSCHAPEAU>Pour le Parti Pirate, une société inclusive passe par le refus de toute exclusion, discrimination ou stigmatisation d'un groupe d'individus, par la lutte contre les préjugés et les stéréotypes grâce au renforcement du tissu social et la mise en place de  passerelles entre les groupes. L'exclusion des personnes issues de l'immigration n'est pas acceptable. L'exclusion de doit pas se reporter sur le transfert inter-générationnel.
+
+La diversité et la coexistence de personnes aux origines différentes apportent un enrichissement de la vie sociale. Les principaux éléments favorisant l'inclusion sont le travail, la connaissance de la langue du pays, la sécurité, les services sanitaires et un logement adapté au besoin de chacun. C'est un devoir de la société d'assurer une réelle opportunité pour l'éducation et la réussite professionnelle pour tous. </SSCHAPEAU>
+		
+				<PROPOSITION>
+			<PROPID>40</PROPID>
+			<PROPTITLE>Etendre le droit de vote et d'éligibilité</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que le droit de vote ainsi que le droit d'éligibilité au niveau cantonal soient attribués aux étrangers après huit années de résidence.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>41</PROPID>
+			<PROPTITLE>Lutter contre toute les discriminations</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que la lutte contre toute forme de discrimination soit renforcée à travers une meilleure coopération entre les acteurs de la société civile, notamment par la mise à disposition d'espaces de collaboration.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>42</PROPID>
+			<PROPTITLE>Créer des passerelles entre les âges</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la création d'espaces intergénérationnels permettant aux enfants du premier âge de côtoyer des retraités du troisième et quatrième age.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+				<PROPOSITION>
+			<PROPID>43</PROPID>
+			<PROPTITLE>Handicap: rendre la salle du Grand Conseil accessible</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que l'accessibilité à la salle du Grand Conseil soit rendue possible à l'ensemble des situations de handicap.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		</SOUSSECTION>
+	</SECTION>
+</CHAPTER>
+<CHAPTER ID="ENV" SUBJECT="Environnement">Environnement
+<CHAPEAU>La préservation et la gestion durable de l'environnement sont fondamentales pour garantir l'existence de l'humanité. Le Parti Pirate promeut une gestion transparente et responsable de l'environnement. Il est primordial d'assurer sur le long terme et pour le futur une existence décente respectueuse de l'individu. L'ensemble des énergies non renouvelables utilisées actuellement doit être géré de façon durable et être remplacé par des énergies renouvelables autant que possible et de manière proactive.</CHAPEAU>
+
+<SECTION ID="ENV1" SUBJECT="Preservation">Préservation
+<SOUSSECTION ID="ENV1-1">Protection des eaux
+<SSCHAPEAU>L'eau est un bien commun qui ne doit pas être soumis aux lois du marché. Le manque d'eau potable sera un problème conséquent pour les générations futures. Le Parti Pirate entend gérer durablement les ressources en eau en favorisant les approvisionnements alternatifs. Il entend aussi lutter énergiquement contre toute pollution de l'eau, qu'elle soit industrielle ou provenant de particuliers.</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>44</PROPID>
+			<PROPTITLE>Utilisation de l'eau de pluie</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'un recyclage systématique des eaux claires pour une utilisation où de l'eau potable n'est pas nécessaire (sanitaire, arrosage, lavage de véhicule et voirie, etc...).</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>45</PROPID>
+			<PROPTITLE>Diversifier les approvisionnements d'eau</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'établissement d'un nouveau modèle économique de l'évacuation et de l'épuration de l'eau qui ne soit plus basé uniquement sur la taxation du volume consommé d'eau potable et permettant une utilisation plus large des eaux claires.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>46</PROPID>
+			<PROPTITLE>Interdire la fracturation hydraulique</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'interdiction de l'utilisation des techniques de forage par fracturation hydraulique quelqu'en soient les bénéfices attendus. Les conséquences à long terme de l'utilisation de ces techniques sont actuellement trop incertaines concernant l'approvisionnement en eau et la stabilité géologique des sols.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+</SOUSSECTION>
+<SOUSSECTION ID="ENV1-2">Biodiversité
+<SSCHAPEAU>Une diversité accrue de la faune et de la flore est essentielle pour la stabilité des écosystèmes. Pourtant le nombre d'espèces menacées ne cessent d'augmenter. Le Parti Pirate défend une stratégie pour le maintien de la biodiversité  concernant en particulier l'agriculture, l'aménagement du territoire et le tourisme.</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>47</PROPID>
+			<PROPTITLE>Protection des abeilles</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que toutes les mesures protégeant la survie et le développement des abeilles soient prises. Les abeilles sont indispensables à l'équilibre du biotope et à la sécurisation de l'approvisionnement en fruits et légumes de part leur fonction de pollinisation.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>48</PROPID>
+			<PROPTITLE>Interdiction des OGM en plein champ</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'interdiction d'utilisation de semences dites OGM en plein champ, tout en garantissant la possibilité d'effectuer des recherches dans des milieux clos. Le manque de recul et les abus liés à la réglementation actuelle concernant les brevets sur le vivant mettent en péril la biodiversité et poussent à l'application du principe de précaution.
+</PROPJUST>
+<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>49</PROPID>
+			<PROPTITLE>Préservation des espèces anciennes</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la poursuite des initiatives lancées lors de l'année de la biodiversité (2010) en particulier les vergers conservatoires et autres jardins potagers de préservation des espèces anciennes.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+
+<SOUSSECTION ID="ENV1-3">Changements climatiques
+<SSCHAPEAU>Les bouleversements climatiques auxquels l'activité humaine contribue ont des conséquences incontrôlables sur la société humaine en aggravant les risques sanitaires, de sécurité alimentaire et de conflits. Pour le Parti Pirate, il est primordial d'influer de manière significative sur les conséquences environnementales de l'activité humaine. Une politique d'incitation à la consommation frugale, d'efficience énergétique, de réduction des besoins en énergie et de production d'énergie à partir de sources renouvelables doit être mis en place. L'Etat est prescripteur et, à ce titre a un rôle de modèle et doit par conséquent être un acteur de l'innovation.
+</SSCHAPEAU>
+
+
+<PROPOSITION>
+			<PROPID>50</PROPID>
+			<PROPTITLE>Une informatique de l'Etat moins énergivore</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'une politique "Green IT" visant à améliorer l'efficience énergétique de l'ensemble de l'infrastructure du système d'information de l'Etat.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>51</PROPID>
+			<PROPTITLE>Une mobilité du travail économe</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en oeuvre d'une politique facilitant la mobilité des collaborateurs de l'Etat par une plus grande flexibilité des modes de travail et de l'organisation des administrations dans le cadre d'une politique environnementale.</PROPJUST>
+			<PROPTHEMES>Environnement,Mobilité</PROPTHEMES>
+		</PROPOSITION>
+
+		<PROPOSITION>
+			<PROPID>52</PROPID>
+			<PROPTITLE>L'Etat roule pour l'objectif "zéro émission"</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que l'Etat intègre l'objectif du "zéro émission" dans sa politique de renouvellement du parc de véhicules..</PROPJUST>
+			<PROPTHEMES>Environnement,Mobilité</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>53</PROPID>
+			<PROPTITLE>Des immeubles de l'Etat peu polluants</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande à ce que l'ensemble des locaux utilisés par l'Etat, ainsi que la plus grande part possible de son parc immobilier, soit adapté aux normes minergies les plus récentes.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>54</PROPID>
+			<PROPTITLE>Une infrastructure efficace de l'Etat</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'étude et la planification d'un campus administratif intégrant l'ensemble des départements et services centraux de l'Etat dans le but de réaliser des économies d'échelle dans les transports et la logistique.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+</SOUSSECTION>
+
+</SECTION>
+<SECTION ID="ENV2" SUBJECT="Durabilite">Durabilité
+<SOUSSECTION ID="ENV2-1">Utilisation de l'environnement
+<SSCHAPEAU>Une utilisation durable de l'environnement nécessite la recherche de la plus grande efficacité énergétique. Dans ce cadre, l'accès à de l'information transparente est essentiel à la mobilisation des acteurs locaux.</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>55</PROPID>
+			<PROPTITLE>Des achats durables</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que l'Etat intègre comme critère de sélection la durabilité et la gestion du cycle de vie (cradle to cradle) dans la politique d'achat.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>56</PROPID>
+			<PROPTITLE>La transparence au service de l'environnement</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise à disposition de l'ensemble des données publiques dans le cadre d'une politique Open Data. La recherche des corrélations entre l'activité humaine et les effets sur l'environnement est essentiel à une meilleure utilisation durable de l'environnement.</PROPJUST>
+			<PROPTHEMES>Transparence,Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>57</PROPID>
+			<PROPTITLE>Une énergie maitrisée localement</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la diversification des approvisionnements énergétiques du canton afin d'y intégrer un maximum d'énergies locales et renouvelables en s'opposant à l'achat d'électricité d'origine  nucléaire conformément à la Constitution genevoise.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+</SOUSSECTION>
+</SECTION>
+</CHAPTER>
+<CHAPTER ID="PAT" SUBJECT="Patrimoine Commun">Patrimoine Commun
+<CHAPEAU>La société humaine a accumulé en se développant au cours des âges un patrimoine important qu'il s'agisse d'infrastructures techniques, telles que les infrastructures de transports, ou de connaissances et de culture. Pour le Parti Pirate, un patrimoine commun accessible à tous sans discrimination et géré de manière solidaire est un élément nécessaire afin de permettre aux citoyens de contribuer efficacement à la société. Les politiques touchants au patrimoine commun doivent permettre la capitalisation des acquis ainsi que son développement et sa pérennité.</CHAPEAU>
+
+<SECTION ID="PAT1" SUBJECT="Infrastructure">Infrastructure
+<SOUSCHAPEAU>Pour le Parti Pirate, des politiques cohérentes permettant la gestion des infrastructures sont nécessaires au développement de la société. Ces politiques doivent inclure les aspects sociaux, économiques et culturels tout en intégrant des principes de gestion saine et durable.</SOUSCHAPEAU>
+<SOUSSECTION ID="PAT1-1">Transports
+<SSCHAPEAU>Les transports donnent les moyens aux individus d'effectuer des échanges au sein de leur région. Ces échanges sont essentiels pour le bon fonctionnement et le développement économique, culturel et social au sein de l'espace de vie des individus.
+Le Parti Pirate Genevois est pour une approche pragmatique et donc non dogmatique de la
+question des transports. La « guerre » des transports que se livrent les partis politiques n'a mené qu'à une seule chose : des blocages. Il est temps de les dépasser et de voir l'intérêt général avant les intérêts particuliers.
+ La qualité et la disponibilité des infrastructures de transport doit être garantie. L'Etat a un rôle déterminant dans la planification et la gestion.  L'exploitation des transports publics par l'Etat doit lui permettre   d'assurer une accessibilité à tous. La structure des transports doit garantir un désenclavement des régions périphériques au canton. Pour ce faire il ne faut pas se limiter à  des projets helvétiques, mais développer la collaboration  transfrontalière.
+</SSCHAPEAU>
+
+
+<PROPOSITION>
+			<PROPID>58</PROPID>
+			<PROPTITLE>Améliorer l'offre des transports publics</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la poursuite du développement de l'offre de transports publics telle que prévue par le Conseil d'Etat, notamment les connexions transfrontalières.
+&lt;br&gt;Le Parti Pirate Genevois demande de poursuivre le développement du RER genevois par le financement de l'extension de la gare de Cornavin en souterrain.
+&lt;br&gt;Le Parti Pirate Genevois demande de donner les moyens aux concepteurs des réseaux de transports publics de régler les feux de signalisation de manière à accorder la priorité aux transports publics en milieu urbain.
+</PROPJUST>
+<PROPTHEMES>Mobilité</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>59</PROPID>
+			<PROPTITLE>Encourager la mobilité douce</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement du réseau des pistes cyclables avec création d'itinéraires de qualité à l'échelle de l'agglomération, en site propre, bidirectionnels et continus.
+&lt;br&gt;Le Parti Pirate Genevois demande l'octroi des crédits pour la mise en oeuvre de l'initiative 144 (mobilité douce).
+&lt;br&gt;Le Parti Pirate Genevois demande la facilitation de la circulation des cycles et de leur usage (mesures de séparation du  trafic aux carrefours, autorisation du « tourner à droite » aux feux  rouges, aménagement du réseau des pistes cyclables existant de telle  manière à ce qu'il n'y ait plus de « coupures », création d'emplacements  de stationnement sécurisés, campagnes de promotion du vélo, système de  vélos en libre service, application stricte de la LCR à l'égard des  deux-roues motorisés qui utilisent les aménagements cyclables).
+&lt;br&gt;Le Parti Pirate Genevois demande la mise en oeuvre des campagnes de sensibilisation auprès de la population pour l'inciter à utiliser le moyen de déplacement le plus approprié en fonction du trajet : faut-il  prendre sa voiture pour un déplacement qui prend 20 minutes à pied ou 5  minutes à vélo ?</PROPJUST>
+<PROPTHEMES>Environnement,Mobilité</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>60</PROPID>
+			<PROPTITLE>Encourager les échanges modaux</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la construction du parking urbain des Clés-de-Rive (sans argent public) en échange d'une zone piétonne digne de ce nom (avec argent public).
+&lt;br&gt;Le Parti Pirate Genevois demande la construction de P+R sur sol français, en partie financés par le canton.
+&lt;br&gt;Le Parti Pirate Genevois demande l'ouverture de parkings deux-roues motorisés et cycles, gratuits ou à faible prix, à proximité des centres importants.
+&lt;br&gt;Le Parti Pirate Genevois demande la transformation de places de parking voiture en places pour deux-roues motorisés.
+&lt;br&gt;Le Parti Pirate Genevois demande la mise en place d'infrastructure de bornes électriques afin de promouvoir l'utilisation de véhicules "zéro émission".</PROPJUST>
+<PROPTHEMES>Mobilité</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>61</PROPID>
+			<PROPTITLE>Construire un contournement complet</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'élargissement de l'autoroute de contournement.
+			&lt;br&gt;Le Parti Pirate Genevois demande le désenclavement de la région sud-est du canton, qui n'a pas d'accès directe aux transports routiers et ferroviaires nationaux, typiquement par le biais d'un projet rail-route faisant la jonction avec les autres noeuds ferroviaires et autoroutieres.
+&lt;br&gt;Le Parti Pirate Genevois soutient le développement de la traversée du lac à condition qu'elle fasse partie d'une solution négociée comprenant les demandes exposées sous les points « améliorer les transports publics », « encourager la mobilité douce » et « encourager les échanges modaux ». Ceci dit, la traversée du lac ne se fera pas avant au moins vingt ans, il faut donc d'ores et déjà aller de l'avant avec les propositions qui permettront aux Genevois de se déplacer dans de meilleures conditions qu'aujourd'hui.</PROPJUST>
+<PROPTHEMES>Mobilité</PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+
+<SOUSSECTION ID="PAT1-2">Réseaux d'approvisionnement
+<SSCHAPEAU>Les réseaux d'approvisionnement, les réseaux de distribution d'énergie et de services essentiels tels que l'eau et l'assainissement sont des services dont le bon fonctionnement est indispensable au maintien de notre niveau de vie. Leur gestion durable doit assurer la plus grande accessibilité aux citoyens et aux entreprises.
+</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>62</PROPID>
+			<PROPTITLE>Déplacer les dépôts de Vernier</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place de nouvelles infrastructures de stockage de produits pétroliers, afin de délocaliser l'infrastructure verniolane qui impose à une zone d'habitation fortement peuplée de multiples risques liés à la dangerosité des matières stockées et  qui se trouve à proximité de l'aéroport.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+
+<PROPOSITION>
+			<PROPID>63</PROPID>
+			<PROPTITLE>Un réseau électrique décentralisé</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'étude et la planification d'un réseau électrique permettant l'intégration de micro-unités de production (solaire, éolien, autre) afin de créer des systèmes permettant la répartition de l'énergie électrique à partir d'une multitude de sources et non plus une diffusion en étoile.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>64</PROPID>
+			<PROPTITLE>Développer la chaleur-force</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la poursuite des infrastructures force et chaleur et leur intégration dans un réseau cantonal.
+</PROPJUST>
+<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>65</PROPID>
+			<PROPTITLE>Développer la climatisation urbaine</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement du réseau de climatisation urbaine utilisant les eaux profondes du lac comme moyen de réduire la dépense énergetique des bâtiments.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+
+<SOUSSECTION ID="PAT1-3">Télécommunications
+<SSCHAPEAU>Le canton de Genève dispose d'un réseau de télécommunication performant et largement disponible. Ce réseau est actuellement sous-utilisé. Il convient de l'ouvrir et de le rendre disponible aux acteurs associatifs et aux entreprises locales.</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>66</PROPID>
+			<PROPTITLE>Garantir l'accès à l'administration électronique</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'accès aux ressources d'information des communes et de l'Etat pour garantir l'accès à l'administration électronique pour tous sans discrimination.</PROPJUST>
+			<PROPTHEMES>Transparence</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>67</PROPID>
+			<PROPTITLE>Un réseau fibre ouvert pour de nouvelles opportunités</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que les ressources de fibre optique enterrée appartenant à l'Etat soient mises à disposition des citoyens, associations et entreprises.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+
+<SOUSSECTION ID="PAT1-4">Aménagement du territoire
+<SSCHAPEAU>Le logement constitue pour les Genevois une problématique importante. Le manque chronique de logements rend difficile voire impossible l'accès à des logements adéquats notamment lors des changements des situations familiales. </SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>68</PROPID>
+			<PROPTITLE>Accélérer les procédures de construction</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande l'étude de procédures administratives alternatives permettant de réduire le temps de réalisation de projets immobiliers collectifs, tout en garantissant que les positions de l'ensemble des acteurs soient prises en compte. La durée de réalisation particulièrement exceptionnelle à Genève, de 8 à 18 ans, induit des coûts qui sont absorbés au travers d'une valeur locative plus élevée. Cela renchérit significativement les coûts des logements.</PROPJUST>
+			<PROPTHEMES>Logement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>69</PROPID>
+			<PROPTITLE>Assurer la mixité sociale</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la poursuite de la politique de mixité dans les logements en offrant dans les mêmes ensembles d'habitations des logements en PPE, des logements à loyers libres et d'autres à loyers modérés afin de lutter contre la dissociation du tissu social et l'émergence de l'exclusion.</PROPJUST>
+			<PROPTHEMES>Logement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>70</PROPID>
+			<PROPTITLE>Développer une stratégie à très long terme</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande un développement à plus long terme de la planification du territoire et de ses aménagements avec un horizon à 50 ans.</PROPJUST>
+			<PROPTHEMES>Logement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>71</PROPID>
+			<PROPTITLE>Promouvoir les modes alternatifs de logements</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'une politique de promotion des modes alternatifs de logements tels que les coopératives et les logements collectifs auto-gérés.</PROPJUST>
+			<PROPTHEMES>Logement</PROPTHEMES>
+		</PROPOSITION>
+</SOUSSECTION>
+
+</SECTION>
+
+<SECTION ID="PAT2" SUBJECT="Developpement">Développement
+<SOUSSECTION ID="PAT2-1">Instruction publique
+<SSCHAPEAU>Pour le Parti Pirate, l'instruction publique doit avoir pour but de procurer à l'individu les moyens de participer activement à la société (économique, culturel, social), les capacités de développer son projet de vie et les outils pour exercer une citoyenneté active. 
+L'enseignement de la connaissance est un processus individuel de l'élève dans lequel   l'enseignant utilise les moyens pédagogiques adaptés. L'enseignant est l'autorité pédagogique, il transmet un corpus de connaissances au moyen des outils pédagogiques et didactiques qu'il a acquis et selon la capacité d'apprentissage de l'élève. La communauté  d'enseignement définit les programmes par rapport aux buts précédemment énoncés.
+Le libre accès à l'enseignement public est garanti à tous. Le mandat de l'Etat est de mettre l'ensemble des moyens à disposition de l'élève pour réaliser son parcours. L'enseignement et le développement de la connaissance de l'élève ne se bornent pas au chemin institutionnel et à l'obtention d'un diplôme. L'accès au savoir et à l'infrastructure des savoirs doit être libre.</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>72</PROPID>
+			<PROPTITLE>Une égalité de moyens pour tous et non une égalité de résultat qualifiant.</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'une politique d'égalité de moyens dans l'enseignement.</PROPJUST>
+			<PROPTHEMES>Education</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>73</PROPID>
+			<PROPTITLE>Une formation cohérente et pertinente en matière de bureautique</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'enseignements en bureautique essentiels au développement de compétences aujourd'hui indispensables dans la vie active.</PROPJUST>
+			<PROPTHEMES>Education</PROPTHEMES>
+		</PROPOSITION>
+		
+</SOUSSECTION>
+</SECTION>
+
+<SECTION ID="PAT3" SUBJECT="Culture">Culture
+<SOUSSECTION ID="PAT3-1">Arts
+<SSCHAPEAU>Les arts, dans toute leur diversité, sont une partie essentielle de la culture. Dans un monde où la culture globalisée prend une place importante, il est primordial de conserver et de développer l'ensemble des arts. Des arts diversifiés et vivants sont au coeur d'une société vivante qui recherche le bien-être.</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>74</PROPID>
+			<PROPTITLE>Les oeuvres d'arts de l'Etat sous licence libre</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois exige que l'ensemble des oeuvres d'art et des collections acquises par l'Etat au cours du temps soient couvertes par des licences de droit d'auteur libre (creative commons) permettant un accès et une réutilisation facilités à la population.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>75</PROPID>
+			<PROPTITLE>Des subventions mieux réparties</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que la répartition des subventions aux arts de la scène laisse plus de place aux arts créatifs dans toute leur diversité.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		</SOUSSECTION>
+<SOUSSECTION ID="PAT3-2">Médias
+<SSCHAPEAU>L'information est essentielle à la vie de notre société démocratique. Diffuser et partager l'information est le rôle des médias qui doivent pouvoir accéder à l'ensemble de la population à travers une diversification de moyens de communications complémentaires, presse écrite, radio, télévision ou encore Internet.</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>76</PROPID>
+			<PROPTITLE>Soutenir la pluralité de la presse</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la préservation de la pluralité de la presse genevoise afin que la population puisse continuer à se forger sa propre opinion sur les faits qui lui sont rapportés.</PROPJUST>
+			<PROPTHEMES>Transparence</PROPTHEMES>
+		</PROPOSITION>
+
+<PROPOSITION>
+			<PROPID>77</PROPID>
+			<PROPTITLE>Encourager les initiatives multimédias locales</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande le développement d'un programme de soutien aux initiatives locales multimédias visant à diffuser de l'information, promouvoir la culture et divertir.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+<SOUSSECTION>Préservation de la culture
+<SSCHAPEAU>La préservation du patrimoine culturel, historique et linguistique genevois est nécessaire afin de pouvoir le rendre accessible et de le conserver pour les prochaines générations. Le Parti Pirate considère que l'individu ne peut pleinement s'épanouir dans la société s'il n'y a pas l'opportunité d'accéder à l'histoire et la culture de son lieu de vie.</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>78</PROPID>
+			<PROPTITLE>Préserver les biens</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la préservation des archives communales et cantonales.
+Le Parti Pirate Genevois demande la préservation du patrimoine archéologique des fortifications autour de la Vieille Ville.</PROPJUST>
+<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>79</PROPID>
+			<PROPTITLE>Numérisation des fonds audiovisuels</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la numérisation des collections audios et audiovisuelles du département de l'instruction publique, de la culture et du sport afin de les préserver et de les rendre disponibles librement.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>80</PROPID>
+			<PROPTITLE>Préservation des arts de la scène</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la création d'un conservatoire des costumes de théâtre approvisionné notamment par les ateliers du Grand Théâtre.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>81</PROPID>
+			<PROPTITLE>Perpétuer le patois</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la création d'un programme d'études et de cartographie linguistique sur les patois genevois ainsi que le développement d'outils permettant la perpétuation du patois.</PROPJUST>
+			<PROPTHEMES></PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+</SECTION>
+
+</CHAPTER>
+<CHAPTER ID="ECO" SUBJECT="Economie">Economie
+<CHAPEAU></CHAPEAU>
+<SECTION ID="ECO1" SUBJECT="Vie economique">La vie économique
+<SOUSCHAPEAU>Le développement économique de l'activité humaine doit permettre de fournir à l'ensemble de la population de bonnes conditions de vie. L'économie se repose fortement sur les autres piliers de la société que sont la sécurité, l'environnement et les biens communs.
+Pour le Parti Pirate, le développement de l'économie doit se faire à taille humaine et dans le respect de l'individu en valorisant aussi le travail bénévole. Les individus ne doivent pas être considérés comme des "ressources humaines". Seul un tissu économique de proximité résilient et étendu permet d'affronter sereinement les soubresauts de l'économie mondiale. Un tissu économique local est le garant d'une économie qui résiste aux sirènes de la spéculation financière et à la gestion par objectifs de court terme.</SOUSCHAPEAU>
+<SOUSSECTION ID="ECO1-1">Tissu économique
+<SSCHAPEAU>Pour le Parti Pirate, l'économie du canton doit résister à la financiarisation à outrance. Les acteurs de l'économie réelle doivent rester au coeur de l'évolution et de l'innovation du tissu industriel et des services genevois. 
+</SSCHAPEAU>
+<PROPOSITION>
+			<PROPID>82</PROPID>
+			<PROPTITLE>L'Open Data, de nouvelles opportunités</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois exige la mise à disposition de l'ensemble des données publiques au travers d'un projet "Open Data". L'utilisation de ses données et les corrélations qui peuvent en résulter ouvrent de nouvelles possibilités pour stimuler l'innovation locale.</PROPJUST>
+			<PROPTHEMES>Emploi,Transparence</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>83</PROPID>
+			<PROPTITLE>Soutenir l'entreprenariat</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande de faciliter la création d'entreprises notamment en améliorant l'accessibilité à l'ensemble des structures de promotion économique. Au sein des structures cantonales et communales une simplification et une uniformisation des processus de demandes doivent être réalisées.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>84</PROPID>
+			<PROPTITLE>Une meilleure protection pour les entrepreneurs</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande une meilleure protection des entrepreneurs en cas d'accidents ou d'échecs afin qu'ils puissent se retourner et continuer à être des acteurs de la société.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>85</PROPID>
+			<PROPTITLE>Promouvoir les modèles alternatifs</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en oeuvre d'une politique de promotion des modes de gestion alternatifs et innovants des entreprises qui ont fait le succès d'Internet et de ses applications "libres".</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+		</PROPOSITION>
+</SOUSSECTION>
+<SOUSSECTION ID="ECO1-2">Agriculture
+<SSCHAPEAU>L'agriculture est une part non négligeable de l'économie qu'il ne faut pas réduire à des aspects écologiques ou patrimoniaux. La gestion de l'agriculture doit les intégrer en  permettant la production d'aliments à un juste prix. L'économie agricole doit permettre une nutrition saine à l'ensemble de la population ainsi qu'une exploitation durable et respectueuse de l'environnement et de la nature.</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>86</PROPID>
+			<PROPTITLE>Promouvoir la diversification</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'une politique agricole promouvant la paysannerie et la diversification des activités agricoles.</PROPJUST>
+			<PROPTHEMES>Emploi,Environnement</PROPTHEMES>
+		</PROPOSITION>
+		
+		<PROPOSITION>
+			<PROPID>87</PROPID>
+			<PROPTITLE>Poursuivre la stratégie actuelle</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la poursuite de la mise en oeuvre du plan directeur cantonal en matière d'agriculture.</PROPJUST>
+			<PROPTHEMES>Environnement</PROPTHEMES>
+		</PROPOSITION>
+
+</SOUSSECTION>
+<SOUSSECTION ID="ECO1-3">Secteur Financier
+<SSCHAPEAU>Le secteur de la finance occupe une place prépondérante dans le paysage économique genevois. La contribution de ce secteur au niveau de vie général de la région est indéniable. Mais le développement de ce secteur ne peut pas se faire au détriment de l'organisation sociale et économique locale, ni au détriment d'une approche respectueuse des individus de part le monde.</SSCHAPEAU>
+
+
+<PROPOSITION>
+			<PROPID>88</PROPID>
+			<PROPTITLE>Un secteur financier plus éthique</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la promotion d'une charte éthique des métiers de la finance à laquelle pourront adhérer les acteurs de l'industrie genevoise et des services financiers.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+			</PROPOSITION>
+			
+			<PROPOSITION>
+			<PROPID>89</PROPID>
+			<PROPTITLE>La gestion de patrimoine: et après?</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'un plan directeur économique prévoyant des alternatives pour le secteur de la gestion de patrimoine profondément remis en question pour sa gestion des affaires. Ces alternatives doivent permettre de minimiser les impacts d'une transformation du secteur sur l'emploi.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+			</PROPOSITION>
+</SOUSSECTION>
+<SOUSSECTION ID="ECO1-4">Globalisation
+
+<SSCHAPEAU>La région lémanique est un acteur important et influant dans le commerce international, en particulier dans les secteurs de négoce de matières premières, dans l'agro-alimentaire ou dans l'industrie chimique et pharmaceutique. L'émergence d'une économie transnationale ne se fait pas sans contraintes éthiques, fiscales et économiques. Cette économie transnationale contribue pourtant aussi au développement de nouvelles formes d'entrepreneriats. De jeunes PME mettent à profit les ressources d'Internet pour étendre leurs parts de marché au-delà de nos frontières. Pour le Parti Pirate, la globalisation est une opportunité pour les PME qui savent innover mais ne doit pas se laisser la place à des monopoles de conglomérats transnationaux.
+        </SSCHAPEAU>
+        
+<PROPOSITION>
+			<PROPID>90</PROPID>
+			<PROPTITLE>Accompagner les PME dans le monde globalisé</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place de programmes d'accompagnement techniques et juridiques donnant les moyens aux PME d'être actives de manière globale.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+			</PROPOSITION>
+
+
+<PROPOSITION>
+			<PROPID>91</PROPID>
+			<PROPTITLE>Promouvoir l'échange de compétences</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'un programme d'échanges de compétence entre les entreprises multinationales et les PME s'aventurant dans des projets globaux. Ces PME pourront ainsi bénéficier de l'expérience et des réseaux des entreprises multinationales.</PROPJUST>
+			<PROPTHEMES>Emploi,Education</PROPTHEMES>
+			</PROPOSITION>
+
+
+<PROPOSITION>
+			<PROPID>92</PROPID>
+			<PROPTITLE>Promouvoir les outils nécessaires aux PME</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande la mise en place d'un programme d'appui financier pour le développement d'outils techniques et de télécommunications indispensables pour des PME souhaitant entrer dans le monde économique globalisé. Cet appui pourra notamment se réaliser au travers de financement de pépinières "connectées" d'entreprises.</PROPJUST>
+			<PROPTHEMES>Emploi</PROPTHEMES>
+			</PROPOSITION>
+
+</SOUSSECTION>
+</SECTION>
+<SECTION ID="ECO2" SUBJECT="Finances">Finances
+<SOUSSECTION ID="ECO2-1">Fiscalité
+<SSCHAPEAU>Il est important que les bénéfices de l'économie contribuent à l'entretien et au développement des autres piliers de la société. Pour le Parti Pirate, une politique de fiscalité pragmatique doit être pérenne, stable, juste, compréhensible et incitant  àl'innovation et aux investissements tout en prenant en compte les besoins liés à l'évolution de la société.
+</SSCHAPEAU>
+
+<PROPOSITION>
+			<PROPID>93</PROPID>
+			<PROPTITLE>Protection de la sphère privée</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande que la protection des données des contribuables soit assurée tant techniquement et que juridiquement.</PROPJUST>
+			<PROPTHEMES>Vie Privée</PROPTHEMES>
+		</PROPOSITION>
+
+<PROPOSITION>
+			<PROPID>94</PROPID>
+			<PROPTITLE>Valoriser l'investissement des entreprises pour Genève</PROPTITLE>
+			<PROP></PROP>
+			<PROPJUST>Le Parti Pirate Genevois demande une révision du mécanisme d'exonération d'impôts des entreprises par l'introduction d'un modèle dit de "crédits d'impôts" valorisant des comportements sociaux et environnementaux ayant des retombées positives pour la société. </PROPJUST>
+<PROPTHEMES>Emploi</PROPTHEMES>		
+		</PROPOSITION>
+		
+</SOUSSECTION>
+</SECTION>
+
+
+</CHAPTER>
+</PROGRAMME>
